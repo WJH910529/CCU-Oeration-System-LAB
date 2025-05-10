@@ -1,4 +1,4 @@
-# CCU-Oeration-System-LAB
+# CCU-Oeration-System-LAB [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/WJH910529/CCU-Oeration-System-LAB)
 
 ## Introduction
 There are lab's assignments for the operating system course at National Chung Cheng University.  
@@ -59,5 +59,3 @@ Each chopstick can only be used by one person at a time. If a chopstick is alrea
 * State 2: Rest for 500ms.
 * State 3: Waiting for the right chopstick.
 * State 4: Eating for 1000ms.
-
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/WJH910529/CCU-Oeration-System-LAB)
